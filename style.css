@@ -1,0 +1,18 @@
+body{
+    overflow-x: hidden;
+}
+
+.col-sm-3{
+    padding: auto;
+    margin: auto;
+    text-align: justify;
+}
+.articulo{
+    margin: 10px;
+}
+#link-carta:hover{
+    background: #928f8f;
+}
+#link-carta:active{
+    background: #726d6d;
+}
